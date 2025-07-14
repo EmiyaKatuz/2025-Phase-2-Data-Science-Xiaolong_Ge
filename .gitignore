@@ -335,3 +335,5 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 Part3/data_preprocessed/tensor_test.pt
+/.idea/misc.xml
+/.idea/vcs.xml
